@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KNY7yGtQZzXHs6OvXQ78WZUpSVbYhJEb4Wr+AUCEs9W3jOiYauDDQWO4+SJA0XFxYgqeO/xH8wFrHYBknnAbRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas Estudos\\Source\\repos\\CloudStorageTest\\CloudStorageTest.Infrastructure\\CloudStorageTest.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas Estudos\\.nuget\\packages\\google.apis\\1.67.0\\google.apis.1.67.0.nupkg.sha512",
+    "C:\\Users\\Lucas Estudos\\.nuget\\packages\\google.apis.auth\\1.67.0\\google.apis.auth.1.67.0.nupkg.sha512",
+    "C:\\Users\\Lucas Estudos\\.nuget\\packages\\google.apis.core\\1.67.0\\google.apis.core.1.67.0.nupkg.sha512",
+    "C:\\Users\\Lucas Estudos\\.nuget\\packages\\google.apis.drive.v3\\1.67.0.3309\\google.apis.drive.v3.1.67.0.3309.nupkg.sha512",
+    "C:\\Users\\Lucas Estudos\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Lucas Estudos\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lucas Estudos\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

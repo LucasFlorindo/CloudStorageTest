@@ -1,0 +1,15 @@
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\bin\Debug\net8.0\CloudStorageTest.Application.deps.json
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\bin\Debug\net8.0\CloudStorageTest.Application.dll
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\bin\Debug\net8.0\CloudStorageTest.Application.pdb
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.csproj.AssemblyReference.cache
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.AssemblyInfoInputs.cache
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.AssemblyInfo.cs
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.dll
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\refint\CloudStorageTest.Application.dll
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.pdb
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\ref\CloudStorageTest.Application.dll
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\bin\Debug\net8.0\CloudStorageTest.Domain.dll
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\bin\Debug\net8.0\CloudStorageTest.Domain.pdb
+C:\Users\Lucas Estudos\Source\repos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudSto.895011FE.Up2Date
